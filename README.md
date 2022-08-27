@@ -1,4 +1,4 @@
-# Rastreamento-Estacao_Espacial
+# Rastreamento_da_Estacao_Espacial
 Rastreamento de objetos em vídeo com Python - Estação Espacial Internacional 
 
 Esse código foi feito em Python, utilizando o PyCharm e Anaconda3
